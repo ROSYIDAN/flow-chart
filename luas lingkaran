@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T11:23:53.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="cZX6zMUtn80I6XaBEYDM" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T11:34:36.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="7LOpd0TxPkgqJD7vtLgY" version="15.3.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="566" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="OjAjdlcsBZhUpGTsgd1f-4" value="input&lt;br&gt;r" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="500" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OjAjdlcsBZhUpGTsgd1f-5" value="PI = 3.14&lt;br&gt;luas = pi*(r**2)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="OjAjdlcsBZhUpGTsgd1f-5" value="set&lt;br&gt;PI = 3.14&lt;br&gt;luas = pi*(r**2)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="600" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OjAjdlcsBZhUpGTsgd1f-10" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -46,16 +46,16 @@
             <mxPoint x="394.58" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVWPdp5s3jxoNGimgvYX-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fVWPdp5s3jxoNGimgvYX-0" target="fVWPdp5s3jxoNGimgvYX-1">
+        <mxCell id="fVWPdp5s3jxoNGimgvYX-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fVWPdp5s3jxoNGimgvYX-0" target="fVWPdp5s3jxoNGimgvYX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVWPdp5s3jxoNGimgvYX-0" value="declare integer r&lt;br&gt;declare Real luasAvarage&amp;nbsp;&lt;br&gt;constant Real PI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;hachureGap=4;pointerEvents=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fVWPdp5s3jxoNGimgvYX-0" value="declare integer r&lt;br&gt;declare Real luasAvarage&amp;nbsp;&lt;br&gt;constant Real PI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;hachureGap=4;pointerEvents=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325" y="250" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fVWPdp5s3jxoNGimgvYX-1" value="&lt;span&gt;display&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;masukan panjang r&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;hachureGap=4;pointerEvents=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fVWPdp5s3jxoNGimgvYX-1" value="&lt;span&gt;display&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;masukan panjang r&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;hachureGap=4;pointerEvents=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fVWPdp5s3jxoNGimgvYX-3" value="&lt;span&gt;display&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;hasil dari luas lingkaran adalah&quot;,luas&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;strokeWidth=3;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fVWPdp5s3jxoNGimgvYX-3" value="&lt;span&gt;display&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;hasil dari luas lingkaran adalah&quot;,luas&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;strokeWidth=3;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="730" width="115" height="60" as="geometry" />
         </mxCell>
       </root>

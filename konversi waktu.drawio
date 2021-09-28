@@ -1,56 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T04:35:02.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="THqRgxpY69Dy2P9g12ed" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T11:33:37.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="rrdJKzspjK-nHg147It6" version="15.3.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-0" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="50" width="100" height="60" as="geometry" />
+        <mxCell id="p4TjptMFLkmoux_HbhPm-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oEVDhvl8NFxT0IyNIHLy-0" target="p4TjptMFLkmoux_HbhPm-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-1" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-0" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="275" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-3" value="" style="endArrow=classic;html=1;exitX=0.564;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="110" as="sourcePoint" />
-            <mxPoint x="340" y="140" as="targetPoint" />
+            <mxPoint x="324.0799999999999" y="310" as="sourcePoint" />
+            <mxPoint x="324" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-2" value="&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;display&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;input nilai detik :&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="140" width="220" height="60" as="geometry" />
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-5" value="input&lt;br&gt;detik" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="340" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-3" value="" style="endArrow=classic;html=1;exitX=0.564;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oEVDhvl8NFxT0IyNIHLy-2">
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-6" value="" style="endArrow=classic;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="120" as="sourcePoint" />
-            <mxPoint x="344" y="230" as="targetPoint" />
+            <mxPoint x="319.66" y="400" as="sourcePoint" />
+            <mxPoint x="319.66" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-5" value="input&lt;br&gt;detik" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="230" width="100" height="60" as="geometry" />
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-7" value="set&lt;br&gt;detik_ke_menit = detik*60&lt;br&gt;detik_ke_jam = detik*3600&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="430" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-6" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-8" value="" style="endArrow=classic;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339.66" y="290" as="sourcePoint" />
-            <mxPoint x="339.66" y="320" as="targetPoint" />
+            <mxPoint x="319.6600000000001" y="530" as="sourcePoint" />
+            <mxPoint x="319.6600000000001" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-7" value="detik_ke_menit = detik*60&lt;br&gt;detik_ke_jam = detik*3600&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="320" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-8" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-10" value="" style="endArrow=classic;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339.6600000000001" y="420" as="sourcePoint" />
-            <mxPoint x="339.6600000000001" y="450" as="targetPoint" />
+            <mxPoint x="319.6600000000001" y="640" as="sourcePoint" />
+            <mxPoint x="319.6600000000001" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-9" value="display&lt;br&gt;&quot;detik ke menit : &quot;,detik_ke_menit,&quot;\n&quot;&lt;br&gt;&quot;detik ke jam : &quot;,detik_ke_jam" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="450" width="230" height="80" as="geometry" />
+        <mxCell id="oEVDhvl8NFxT0IyNIHLy-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="670" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-10" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339.6600000000001" y="530" as="sourcePoint" />
-            <mxPoint x="339.6600000000001" y="560" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="p4TjptMFLkmoux_HbhPm-0" value="&lt;span&gt; &lt;/span&gt;&lt;span&gt;display&lt;/span&gt;&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&quot;input nilai detik :&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;hachureGap=4;pointerEvents=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="250" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oEVDhvl8NFxT0IyNIHLy-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="560" width="100" height="60" as="geometry" />
+        <mxCell id="p4TjptMFLkmoux_HbhPm-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p4TjptMFLkmoux_HbhPm-3" target="p4TjptMFLkmoux_HbhPm-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p4TjptMFLkmoux_HbhPm-3" value="declare&lt;br&gt;declare real detik&lt;br&gt;declare real detik_ke_menit&lt;br&gt;declare real detik_ke_menit" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="140" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p4TjptMFLkmoux_HbhPm-6" value="&lt;span&gt;display&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;detik ke menit : &quot;,detik_ke_menit,&quot;\n&quot;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&quot;detik ke jam : &quot;,detik_ke_jam&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;hachureGap=4;pointerEvents=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="560" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

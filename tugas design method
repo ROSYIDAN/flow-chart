@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T12:38:30.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="IDFPxGQcPCFw_Ss5G1cM" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T12:47:51.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jilHEEaELtAhNOy13Y6H" version="15.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2895" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -91,8 +91,8 @@
         <mxCell id="8M6klHQawHJqsTCpuTTj-33" value="&lt;span style=&quot;font-size: 12.0pt ; line-height: 150% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Display &quot;Nilai Huruf = A-&quot;&lt;br&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 150% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Display &quot;Nilai Predikat = &quot;,Nilai_Predikat&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;fontSize=14;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-590" y="1600" width="360" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="8M6klHQawHJqsTCpuTTj-36" value="&lt;span style=&quot;font-size: 12.0pt ; line-height: 150% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Nilai_Akhir &amp;gt;=80&lt;br/&gt;AND Nilai_Akhir &amp;lt;=84&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=14;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-130" y="1610" width="260" height="90" as="geometry" />
+        <mxCell id="8M6klHQawHJqsTCpuTTj-37" value="&lt;span style=&quot;font-size: 12.0pt ; line-height: 150% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Display &quot;Nilai Huruf = B+&quot;&lt;br&gt;&lt;span style=&quot;font-size: 12pt ; line-height: 150%&quot;&gt;Display &quot;Nilai Predikat = &quot;,Nilai_Predikat&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;fontSize=14;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-170" y="1605" width="310" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
